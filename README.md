@@ -112,6 +112,25 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>05. CSS</summary>
 	<table>
     <tr>
+
+- [x] Objetivos deste módulo
+- [x] Básico do CSS
+- [x] Primeiro CSS
+- [x] Cores no CSS
+- [x] Background e Borders
+- [x] Seletores
+- [x] Inspetor do Chrome
+- [x] Seletores mais avançados
+- [x] Especificidade
+- [x] Herança
+- [x] Exercício: Recriando um site com CSS #1
+- [x] Resolução: Recriando um site com CSS #1
+- [x] Texto e Fontes
+- [x] Usando o Google Fonts
+- [x] Box Model
+- [x] Exercício: Recriando um site com CSS #2
+- [x] Resolução: Recriando um site com CSS #2
+- [x] Prova de conclusão com certificado
     </tr>
   </table>
 </details>
