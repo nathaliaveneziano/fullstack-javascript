@@ -48,6 +48,10 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>02. Entendendo a Web</summary>
 	<table>
     <tr>
+
+- [x] Seja bem vindo(a) ao módulo Introdução à Web
+- [x] O que é a Web e como ela funciona
+- [x] Desenvolvedor Frontend, Backend e Fullstack
     </tr>
   </table>
 </details>
