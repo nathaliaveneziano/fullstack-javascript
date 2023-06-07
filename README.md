@@ -28,6 +28,17 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
   <summary>01. Start no Treinamento</summary>
   <table>
     <tr>
+
+- [x] Seja bem-vindo(a)
+- [x] Os instrutores
+- [x] Livro Programador Full Stack JavaScript (texto)
+- [x] Atualizações e melhorias
+- [x] Dashboard do treinamento
+- [x] Grupo Exclusivo (como acessar)
+- [x] Programador e seus super poderes 👨‍🚀
+- [x] Profissão do futuro (e do presente)
+- [x] Melhorando sua experiência na plataforma [texto 📖]
+- [x] Como tirar suas dúvidas [texto 📖]
     </tr>
   </table>
 </details>
