@@ -405,6 +405,38 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>12. Git e Github</summary>
 	<table>
 		<tr>
+
+- [x] Objetivos deste módulo
+- [x] O que é o Git
+- [x] O que é o GitHub
+- [x] Conhecendo o Terminal
+- [x] Terminal no Windows
+- [x] Principais comandos no Terminal
+- [x] Instalando o Git
+- [x] Configurando o Git
+- [x] Criando um novo repositório
+- [x] Ciclo de vida dos arquivos
+- [x] Realizando o primeiro commit
+- [x] Exercício: Seu primeiro commit
+- [x] Resolução: Seu primeiro commit
+- [x] Visualizando os logs
+- [x] Visualizando as diferenças
+- [x] Desfazendo alterações
+- [x] Exercício: Observando as diferenças e desfazendo alterações
+- [x] Resolução: Observando as diferenças e desfazendo alterações
+- [x] O que são Branchs
+- [x] Como utilizar branchs
+- [x] O que é merge e como utilizar
+- [x] Exercício: Usando o merge
+- [x] Resolução: Usando o merge
+- [x] Conhecendo um repositório no GitHub
+- [x] Clonando um projeto do GitHub
+- [x] Criando um novo repositório no GitHub
+- [x] Baixando as atualizações de um projeto
+- [x] Ignorando Arquivos
+- [x] Exercício: Crie seu primeiro repositório online
+- [x] Resolução: Crie seu primeiro repositório online
+- [x] Conectando ao GitHub com uma chave ssh
     </tr>
   </table>
 </details>
