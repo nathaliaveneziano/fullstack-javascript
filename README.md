@@ -485,6 +485,22 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>14. SASS</summary>
 	<table>
     <tr>
+
+- [x] Visão geral do módulo
+- [x] O que é e como funciona o Sass
+- [x] Instalando NPM no Ubuntu
+- [x] Instalando NPM no Windows
+- [x] Instalação e configuração
+- [x] Entendendo variáveis do Sass
+- [x] O que é nesting e como usar
+- [x] Organizando o código com import
+- [x] Aproveitamento de código com mixin
+- [x] Usar e aproveitar heranças/extends
+- [x] Deixando o código mais limpo - Boas práticas
+- [x] O que são e como usar as funções do Sass
+- [x] Como deixar o site mais rápido com minify
+- [x] O que você aprendeu e próximos passos
+- [x] Prova final (com certificado)
     </tr>
   </table>
 </details>
