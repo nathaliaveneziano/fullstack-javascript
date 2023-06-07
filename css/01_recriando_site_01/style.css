@@ -1,0 +1,23 @@
+body {
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+#days-of-week h3 {
+  color: #f1c40f;
+}
+
+h2 {
+  background-color: #f1c40f;
+  color: #2c3e50;
+  border: 2px solid #000;
+}
+
+#astronomy-class {
+  color: #e74c3c;
+}
+
+
+/* #f1c40f -> Amarelo
+#2c3e50 -> Azul
+#e74c3c -> Vermelho */
