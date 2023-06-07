@@ -355,6 +355,38 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>10. JavaScript V - Tópicos Avançados</summary>
 	<table>
 		<tr>
+		
+- [x]  Introdução ao módulo
+- [x]  Tratamento de erros com try, catch e finally
+- [x]  Expressões regulares no JavaScript - Parte 1
+- [x]  Expressões regulares no JavaScript - Parte 2
+- [x]  Exercício 23 - Validador de email e senha
+- [x]  Resolução do Exercício 23
+- [x]  Conhecendo o setTimeout() e o setInterval()
+- [x]  Assincronicidade no JavaScript
+- [x]  Conhecendo as promises
+- [x]  Utilizando .then() e .catch() em promises
+- [x]  Exercício 24 - Treinando o uso das promises
+- [x]  Resolução do Exercício 24
+- [x]  Quiz 15 - Tópicos avançados
+- [x]  Encadeando promises
+- [x]  Executando várias promises
+- [x]  Funções async
+- [x]  Rejeitando promises em funções async
+- [x]  Utilizando await
+- [x]  Promise.all() com async e await
+- [x]  Exercício 25 - Refatorando as promises
+- [x]  Resolução do Exercício 25
+- [x]  Revisão: Comunicação na web com HTTP
+- [x]  Conhecendo as APIs Restful
+- [x]  Requisições GET com JavaScript
+- [x]  Requisições POST com JavaScript - Parte 1
+- [x]  Requisições POST com JavaScript - Parte 2
+- [x]  Exercício Final - Consumindo uma API
+- [x]  Resolução - Consumindo uma API - Parte 1
+- [x]  Resolução - Consumindo uma API - Parte 2
+- [x]  Encerramento
+- [x]  Prova de conclusão do módulo
     </tr>
   </table>
 </details>
