@@ -450,6 +450,32 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>13. CSS Moderno</summary>
 	<table>
     <tr>
+
+- [x] Aula de introdução
+- [x] Visão geral sobre responsividade
+- [x] Entendendo media query
+- [x] Entendendo responsividade na prática - Mobile first
+- [x] Visão geral sobre o flexbox
+- [x] Criando layout de estudo
+- [x] Manipulando o flex container
+- [x] Exercício de fixação #1
+- [x] Manipulando flex-items
+- [x] Apresentando exercício de flexbox
+- [x] Resolvendo exercício de flexbox
+- [x] Visão geral sobre grid
+- [x] Modificando layout
+- [x] Manipulando CSS grid
+- [x] Exercício de fixação #2
+- [x] Manipulando linhas e colunas
+- [x] Apresentando exercício de grid
+- [x] Resolução do exercício de grid
+- [x] Apresentando exercício final de flexbox + grid
+- [x] Exercício Flexbox Grid - Parte1
+- [x] Exercício Flexbox Grid - Parte2
+- [x] Exercício Flexbox Grid - Parte3
+- [x] Exercício Flexbox Grid - Parte4
+- [x] Exercício Flexbox Grid - Parte5
+- [x] Conclusão
     </tr>
   </table>
 </details>
