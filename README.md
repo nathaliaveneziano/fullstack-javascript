@@ -140,6 +140,69 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>06. JavaScript I - Lógica de Programação</summary>
 	<table>
     <tr>
+
+- [x] Apresentação e introdução ao módulo
+- [x] Material de Apoio: Mapa Mental
+- [x] Dicas e Ferramentas
+- [x] O que é uma linguagem de programação
+- [x] O que é JavaScript
+- [x] Tipos de dados
+- [x] Variáveis
+- [x] Operadores e expressões
+- [x] Comentários
+- [x] Quiz 1 - Conceitos básicos
+- [x] Usando JavaScript no HTML
+- [x] Recursos nativos do navegador
+- [x] Exercício 1: Cadastro de usuário - Calculadora de 4 operações
+- [x] Resolução do Exercício 1: Cadastro de usuário - Calculadora de 4 operações
+- [x] Comparação de dados
+- [x] Operadores lógicos
+- [x] Quiz 2 - Operações lógicas
+- [x] Estruturas condicionais: If e Else
+- [x] Exercício 2: Teste de velocidade e Cálculo de dano
+- [x] Resolução do Exercício 2: Teste de velocidade e cálculo de dano
+- [x] Estruturas Condicionais: Switch
+- [x] Exercício 3: Conversor de medidas
+- [x] Resolução do Exercício 3: Conversor de Medidas
+- [x] Estruturas de Repetição: While
+- [x] Exercício 4: Visitando novas cidades
+- [x] Resolução do Exercício 4: Visitando novas cidades
+- [x] Estruturas de Repetição: Do While
+- [x] Exercício 5: Menu interativo e Controle financeiro
+- [x] Resolução do Exercício 5: Menu interativo e controle financeiro
+- [x] Estruturas de Repetição: For
+- [x] Exercício 6: Robô da tabuada e Procurando palíndromos
+- [x] Resolução do Exercício 6: Robô da tabuada e Procurando palíndromos
+- [x] Estruturas de dados
+- [x] Arrays
+- [x] Trabalhando com Arrays - Parte 1
+- [x] Trabalhando com Arrays - Parte 2
+- [x] Exercício 7: Fila de espera e Pilha de cartas
+- [x] Resolução do Exercício 7: Fila de espera e Pilha de cartas
+- [x] Arrays Bidimensionais
+- [x] Objetos
+- [x] Quiz 3 - Arrays e Objetos
+- [x] Exercício 8: Cadastro de Imóveis
+- [x] Resolução do Exercício 8: Cadastro de Imóveis
+- [x] Funções
+- [x] Parâmetros de uma função
+- [x] Retorno de uma função
+- [x] Escopo
+- [x] Exercício 9: Calculadora geométrica
+- [x] Resolução do Exercício 9: Calculadora geométrica
+- [x] Métodos
+- [x] Funções recursivas
+- [x] Funções anônimas
+- [x] High-order Functions
+- [x] High-order Functions e Arrays - Parte 1
+- [x] High-order Functions e Arrays - Parte 2
+- [x] Quiz 4 - Revisando Funções
+- [x] Objetos Globais
+- [x] Exercício 10: Desafio Final
+- [x] Resolução do Exercício 10: Desafio Final - Parte 1
+- [x] Resolução do Exercício 10: Desafio Final - Parte 2
+- [x] Recapitulando o que aprendemos
+- [x] Prova de conclusão do módulo
     </tr>
   </table>
 </details>
