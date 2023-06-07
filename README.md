@@ -212,6 +212,36 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>07. JavaScript II - DOM</summary>
 	<table>
     <tr>
+
+- [x] Introdução
+- [x] Eventos no HTML
+- [x] O que é DOM
+- [x] Obtendo elementos HTML do DOM
+- [x] Criando novos elementos no DOM
+- [x] Quiz 5 - Revisando o DOM
+- [x] Praticando a manipulação do DOM
+- [x] Exercício 11 - Escalação de times
+- [x] Resolução do Exercício 11
+- [x] Enviando valores do DOM para o JavaScript
+- [x] Trabalhando com eventos no JavaScript
+- [x] Trabalhando com formulários no JavaScript
+- [x] Quiz 6 - Eventos e formulários
+- [x] Exercício 12 - Cadastro de Devs
+- [x] Resolução do Exercício 12 - Parte 1
+- [x] Resolução do Exercício 12 - Parte 2
+- [x] Manipulando estilos com JavaScript
+- [x] Manipulando atributos com JavaScript
+- [x] Quiz 7 - Se aprofundando na manipulação do DOM
+- [x] Projeto prático: Calc.js - Parte 1
+- [x] Projeto prático: Calc.js - Parte 2
+- [x] Exercício 13 - Jogo da Velha (tic-tac-toe)
+- [x] Resolução do Exercício 13 - Parte 1
+- [x] Resolução do Exercício 13 - Parte 2
+- [x] Resolução do Exercício 13 - Parte 3
+- [x] Armazenamento no navegador - Parte 1
+- [x] Armazenamento no navegador - Parte 2
+- [x] Encerramento
+- [x] Prova de conclusão do módulo
     </tr>
   </table>
 </details>
