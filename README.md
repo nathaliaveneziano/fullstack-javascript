@@ -61,6 +61,12 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>03. Conhecendo suas ferramentas</summary>
 	<table>
     <tr>
+
+- [x] Sistema Operacional
+- [x] Browser e console
+- [x] Configurando VS Code
+- [x] Navegação de pastas
+- [x] Conhecendo o CodePen
     </tr>
   </table>
 </details>
