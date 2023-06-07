@@ -76,6 +76,33 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>04. HTML5</summary>
 	<table>
     <tr>
+
+- [x] Nossos objetivos neste módulo
+- [x] Conhecendo o HTML 5
+- [x] Estrutura de uma página Web
+- [x] Tags básicas do HTML
+- [x] Listas no HTML
+- [x] Exercício: Criando uma lista
+- [x] Resolução: Criando uma lista
+- [x] Organizando nosso código com Divs e Span
+- [x] Atributos HTML
+- [x] Exercício: Guia de galáxias
+- [x] Resolução: Guia de Galáxias
+- [x] Criando Tabelas
+- [x] Exercício: Criando sua primeira Tabela
+- [x] Resolução: criando sua primeira tabela
+- [x] Conhecendo os Forms
+- [x] Criando um form para pesquisar no Google
+- [x] Validação de forms
+- [x] Aprofundando nos Inputs
+- [x] Exercício: Criando seu primeiro Form
+- [x] Resolução: Criando seu primeiro Form
+- [x] Novidades do HTML5
+- [x] Leituras recomendadas
+- [x] Elementos semânticos do HTML 5
+- [x] Exercício: Criando um site completo
+- [x] Resolução: Criando um site completo
+- [x] Prova de conclusão com certificado
     </tr>
   </table>
 </details>
