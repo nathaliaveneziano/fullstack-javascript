@@ -255,6 +255,47 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>08. JavaScript III - JS Moderno</summary>
 	<table>
 		<tr>
+
+- [x] Introdução
+- [x] Versões do ECMAScript
+- [x] Compatibilidade de recursos
+- [x] Template literals
+- [x] Arrow functions
+- [x] Desestruturação de objetos e arrays
+- [x] Quiz 8 - Recursos do JS Moderno I
+- [x] Operador spread
+- [x] Rest params
+- [x] Encadeamento opcional
+- [x] Operador de coalescência nula
+- [x] Quiz 2 - Recursos do JS Moderno II
+- [x] Exercício 14 - Estatística na programação
+- [x] Resolução do Exercício 14
+- [x] Introdução aos módulos
+- [x] Módulos CommonJS
+- [x] ES Modules
+- [x] Tipos de export do ESM
+- [x] Quiz 10 - Revisando os módulos
+- [x] Exercício 15 - Modularizando uma aplicação
+- [x] Resolução do Exercício 15
+- [x] Conhecendo o npm
+- [x] Usando o npm
+- [x] Arquivos JSON
+- [x] Exercício 16 - Datas com dayjs
+- [x] Resolução do Exercício 16
+- [x] npx e scripts npm
+- [x] Quiz 11 - NPM
+- [x] Conhecendo o babel
+- [x] Usando o babel
+- [x] Conhecendo o webpack
+- [x] Usando o webpack
+- [x] Configurando o webpack
+- [x] Utilizando loaders
+- [x] Utilizando plugins
+- [x] Exercício 17 - Estruturando um projeto moderno
+- [x] Resolução do Exercício 17
+- [x] Utilizando o webpack-dev-server
+- [x] Encerramento
+- [x] Prova de conclusão do módulo
     </tr>
   </table>
 </details>
