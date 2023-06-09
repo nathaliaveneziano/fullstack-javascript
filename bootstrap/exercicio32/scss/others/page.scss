@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url(../img/backgroundLp.png) no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+.site {
+  background-color: $background-color;
+  width: 450px;
+  height: auto;
+}
+
+.top-logo {
+  width: 185px;
+}
+
+.paragraph {
+  margin: 8px 0;
+}
+
+.btn-send {
+  color: $button-color;
+  border-color: $button-color;
+
+  &:hover {
+    background-color: $button-color;
+  }
+}
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
