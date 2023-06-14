@@ -1,0 +1,152 @@
+.container00 {
+  &.container05 {
+    background-image: url(../img/falcon9/01.jpg);
+  }
+
+  &.container06 {
+    background-image: url(../img/falcon9/02.jpg);
+  }
+
+  &.carrossel01 {
+    background-image: url(../img/falcon9/03.jpg);
+  }
+
+  &.carrossel02 {
+    background-image: url(../img/falcon9/04.jpg);
+  }
+
+  &.carrossel03 {
+    background-image: url(../img/falcon9/05.jpg);
+  }
+
+  &.carrossel04 {
+    background-image: url(../img/falcon9/06.jpg);
+  }
+
+  &.carrossel05 {
+    background-image: url(../img/falcon9/07.jpg);
+  }
+
+  &.container07 {
+    background-image: url(../img/falcon9/08.jpg);
+  }
+}
+
+.title-content {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 2px 2px 2px #000;
+}
+
+.title-falcon {
+  font-size: 90px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+}
+
+.numbers {
+  background-color: black;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .title-number {
+    font-size: 90px;
+  }
+
+  .subtitle-number {
+    font-size: 20px;
+  }
+}
+
+.falcon-desc {
+  font-size: 22px;
+  width: 640px;
+  line-height: 50px;
+}
+
+.container-falcon-desc {
+  display: grid;
+  height: 90vh;
+  align-items: center;
+  justify-content: left;
+}
+
+#position-overview {
+  width: 500px;
+  margin-left: 13%;
+  padding-top: 15%;
+}
+
+.table > :not(caption) > * > * {
+  background-color: transparent;
+  color: white;
+}
+
+.carrosselSlide {
+  img {
+    height: 100vh;
+  }
+}
+
+.caroussel-text {
+  background-color: black;
+}
+
+// Media queries
+@media (max-width: 768px) {
+  .numbers {
+    .title-number {
+      font-size: 80px;
+    }
+
+    .subtitle-number {
+      font-size: 18px;
+    }
+  }
+
+  .falcon-desc {
+    width: auto;
+  }
+
+  #position-overview {
+    padding-top: 35%;
+  }
+}
+
+@media (max-width: 575px) {
+  .numbers {
+    height: 60vh;
+    gap: 40px;
+  }
+
+  .numbers .row div {
+    flex: 1 0 100%;
+  }
+
+  #position-overview {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
+@media (max-width: 375px) {
+  .title-falcon {
+    font-size: 50px;
+  }
+
+  .falcon-desc {
+    font-size: 18px;
+    width: auto;
+    line-height: auto;
+  }
+
+  .subtitle-falcon {
+    font-size: 22px;
+  }
+}
