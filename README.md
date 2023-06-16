@@ -1,9 +1,9 @@
 # Programador Full Stack JavaScript - One Bit Code
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nathaliaveneziano/onebitcode-fullstack-javascript?style=for-the-badge)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/nathaliaveneziano/onebitcode-fullstack-javascript?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/nathaliaveneziano/onebitcode-fullstack-javascript?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/nathaliaveneziano/onebitcode-fullstack-javascript?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
 [![Course link](https://img.shields.io/badge/Course-One%20bit%20code-ff0000?style=for-the-badge)](https://programador.onebitcode.com/)
 ![Status project](https://img.shields.io/badge/Status-Andamento-FFA116?style=for-the-badge)
 
@@ -16,6 +16,13 @@
 Aprenda com projetos reais que vão além da teoria e te colocam frente a frente com os códigos já nas primeiras aulas!
 
 Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das áreas mais promissoras para o futuro, a programação!
+
+---
+
+## Projetos
+
+![Landing Page - OnebitX](./bootstrap/exercicio32/)
+![OnebitX](./bootstrap/projeto_final/)
 
 ---
 
@@ -510,6 +517,34 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>15. Bootstrap</summary>
 	<table>
     <tr>
+
+- [x] O que você vai aprender nesse módulo
+- [x] O que é e como funciona o Bootstrap
+- [x] Instalação e utilização dos primeiros elementos
+- [x] Tipografia
+- [x] Botões
+- [x] Cards
+- [x] Explicando a teoria sobre Grid
+- [x] Praticando com Grid
+- [x] Imagens e Utilidades
+- [x] Formulários
+- [x] Manipulando Bootstrap com Sass
+- [x] Exercício Prático: Criando uma Landing Page com Bootstrap
+- [x] Resolução do Exercício: Criando uma Landing Page com Bootstrap
+- [x] Ícones
+- [x] Avisos e Alerts
+- [x] Carrossel
+- [x] Scroll Spy
+- [x] Navbar
+- [x] Offcanvas
+- [x] Ferramentas extras
+- [x] Apresentação do Projeto Final
+- [x] Lib animação de texto
+- [x] Projeto Final - Organização de arquivos e página home
+- [x] Projeto Final - Falcon 9 - Apenas o HTML
+- [x] Projeto Final - Falcon 9 - Scss e Media Query
+- [x] Projeto Final - Human Flight
+- [x] O que aprendemos neste módulo
     </tr>
   </table>
 </details>
