@@ -1,9 +1,9 @@
 # Programador Full Stack JavaScript - One Bit Code
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/nathaliaveneziano/fullstack-javascript?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nathaliaveneziano/onebitcode_fullstack-javascript?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/nathaliaveneziano/onebitcode_fullstack-javascript?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/nathaliaveneziano/onebitcode_fullstack-javascript?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/nathaliaveneziano/onebitcode_fullstack-javascript?style=for-the-badge)
 [![Course link](https://img.shields.io/badge/Course-One%20bit%20code-ff0000?style=for-the-badge)](https://programador.onebitcode.com/)
 ![Status project](https://img.shields.io/badge/Status-Andamento-FFA116?style=for-the-badge)
 
@@ -403,6 +403,38 @@ Vá do básico ao profissional sem perda de tempo e esteja dentro de uma das ár
 	<summary>11. Typescript</summary>
 	<table>
 		<tr>
+
+- [x] Introdução
+- [x] O que é Typescript e porque usar
+- [x] Typescript vs JavaScript
+- [x] Principais features do **TypeScript**
+- [x] Tipos primitivos
+- [x] Inferência de tipo
+- [x] Como instalar e usar o **TypeScript**
+- [x] Configurações do compilador tsc
+- [x] Seu primeiro código em **TypeScript**
+- [x] Tipos extras: Tuplas
+- [x] Tipos extras: Enums
+- [x] Evitando tipagem
+- [x] Exercício: Declarando tipos
+- [x] Resolução: declarando tipos (parte 1)
+- [x] Resolução: declarando tipos (parte 2)
+- [x] Criando tipos
+- [x] Exercício: criando tipos
+- [x] Resolução: criando tipos (parte 1)
+- [x] Resolução: criando tipos (parte 2)
+- [x] Criando Interfaces
+- [x] Exercício: criando interfaces
+- [x] Resolução: criando interfaces (parte 1)
+- [x] Resolução: criando interfaces (parte 2)
+- [x] Omit e Pick
+- [x] Módulos
+- [x] Orientação a Objetos no TypeScript
+- [x] Generics (parte 1)
+- [x] Generics (parte 2)
+- [x] Decorators (parte 1)
+- [x] Decorators (parte 2)
+- [x] O que aprendemos
     </tr>
   </table>
 </details>
